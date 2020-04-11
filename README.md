@@ -10,12 +10,12 @@ The objective of this project is to use VBA scripting to analyze stock market da
 
 2014 Stock Market Data
 
-![screenshot1.jpg](2014_stock_data.jpg)
+![screenshot1.jpg](2014_stock_data.JPG)
 
 2015 Stock Market Data
 
-![screenshot2.jpg](2015_stock_data.jpg)
+![screenshot2.jpg](2015_stock_data.JPG)
 
 2016 Stock Market Data
 
-![screenshot3.jpg](2016_stock_data.jpg)
+![screenshot3.jpg](2016_stock_data.JPG)
