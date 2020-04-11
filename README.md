@@ -5,3 +5,17 @@ The objective of this project is to use VBA scripting to analyze stock market da
 
 ## **Tools:**
 1. Excel VBA
+
+## **Screenshots:**
+
+2014 Stock Market Data
+
+![screenshot1.jpg](2014_stock_data.jpg)
+
+2015 Stock Market Data
+
+![screenshot2.jpg](2015_stock_data.jpg)
+
+2016 Stock Market Data
+
+![screenshot3.jpg](2016_stock_data.jpg)
